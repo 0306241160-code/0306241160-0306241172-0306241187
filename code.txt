@@ -1,3 +1,7 @@
 hello world
+<<<<<<< HEAD
 xin chao Le Quang Trung
 xin chao Huynh Kim Anh
+=======
+xin chao Nguyen Tran Ngoc Duyen
+>>>>>>> 0306241187-NguyenTranNgocDuyen-sv3
